@@ -13,7 +13,7 @@ Block Game is a simple yet entertaining browser-based game where you control blo
 - Responsive controls and smooth gameplay
 - Clean and readable codebase for learning purposes
 
-## Getting Started
+## Getting Started :
 
 ### Prerequisites
 
