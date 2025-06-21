@@ -24,7 +24,7 @@ Block Game is a simple yet entertaining browser-based game where you control blo
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone https://github.com/yourusername/block-game.git
+   git clone https://github.com/Narayan-CPU/Block-game.git
    ```
    Or download the ZIP and extract it.
 
