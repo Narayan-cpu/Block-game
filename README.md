@@ -47,10 +47,6 @@ That's it! The game will start, and you can play immediately.
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Enjoy the game! If you like it, give it a ⭐️ on GitHub!
