@@ -6,7 +6,7 @@ Welcome to **Block Game**, a fun and interactive game written in JavaScript! ðŸš
 
 Block Game is a simple yet entertaining browser-based game where you control blocks to achieve the highest score possible. Designed with pure JavaScript, itâ€™s lightweight, fast, and perfect for practicing your JS skills or just having a bit of fun.
 
-## Features
+## Features :
 
 - Written entirely in JavaScript (no frameworks required)
 - Easy to play and highly addictive
